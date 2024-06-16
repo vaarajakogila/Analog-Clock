@@ -15,4 +15,4 @@ This project implements a graphical analog clock that displays the current time 
 **Demo Picture:**
 
 
-![Analog Clock Demo](https://github.com/vaarajakogila/Analog-Clock/assets/134189443/e0c345db-c611-410e-a6e1-8bb79804a185.png))
+![Analog Clock Demo](https://github.com/vaarajakogila/Analog-Clock/blob/main/AnalogClock.png?raw=true)
